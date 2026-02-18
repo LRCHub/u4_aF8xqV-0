@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ね～え？",
+  "base_artist": "松浦亜弥",
+  "createdAt": "2026-02-18T13:08:28.971936Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ね～え?",
+      "artist": "Matsuura, Aya",
+      "has_synced": true,
+      "path": "select/01_ね~え_Matsuura,_Aya.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ね～え?",
+      "artist": "松浦亜弥",
+      "has_synced": true,
+      "path": "select/02_ね~え_松浦亜弥.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ね〜え?",
+      "artist": "松浦 亜弥",
+      "has_synced": false,
+      "path": "select/pl_01_ね〜え_松浦_亜弥.txt"
+    }
+  ]
+}
